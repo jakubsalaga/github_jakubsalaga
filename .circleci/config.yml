@@ -6,7 +6,7 @@ jobs:
 
   build-and-test:  
 
-    machine: l
+    machine: 
 
       image: ubuntu-2004:202104-01 
 
